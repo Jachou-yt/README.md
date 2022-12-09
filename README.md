@@ -1,3 +1,4 @@
+[![Jachou Profile Views](https://komarev.com/ghpvc/?username=Jachou-yt&color=brightgreen)](https://github.com/Jachou-yt)
 ### Hey, i'm a young developper.
 
 
