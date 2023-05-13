@@ -180,7 +180,7 @@
 <summary>📜 Languages </summary>
 
 <a href="https://wakatime.com/@Jachou-yt">
-    <img src="https://wakatime.com/share/@Jachou-yt/13c3f1ad-5a6d-474e-9d4a-fcb15ab74a49.svg" alt="Languages over last 30 days" title="Wakatime - Languages" width="900px" height="500px" />
+    <img src="https://wakatime.com/share/@d017f327-5027-47b0-97d1-52731c06615a/ca108fe6-91de-4edd-a468-28eefccd83e9.svg" alt="Languages over last 30 days" title="Wakatime - Languages" width="900px" height="500px" />
 </a>
 
 </details>
@@ -191,7 +191,7 @@
 <summary>✍️ Coding activity </summary>
 
 <a href="https://wakatime.com/@Jachou-yt">
-    <img src="https://wakatime.com/share/@Jachou-yt/9e35e40b-ace7-4571-88e1-e986c4128ee5.svg" alt="Coding time over last 30 days" title="Wakatime - Coding Time" width="900px" height="500px" />
+    <img src="https://wakatime.com/share/@d017f327-5027-47b0-97d1-52731c06615a/5a88b500-35a7-4939-9777-946e640b1269.svg" alt="Coding time over last 30 days" title="Wakatime - Coding Time" width="900px" height="500px" />
 </a>
 
 </details>
@@ -204,7 +204,7 @@
 
 | IDEs | OS |
 | --- | --- |
-| <a href="https://wakatime.com/@Jachou-yt"> <img src="https://wakatime.com/share/@Jachou-yt/3fbbcb42-59ad-4579-88b1-5fd1f31fa2d8.svg" alt="IDEs over last 30 days" title="Wakatime - IDEs" width="900px" height="500px" /> </a> | <a href="https://wakatime.com/@Jachou-yt"> <img src="https://wakatime.com/share/@Jachou-yt/4aae9f89-b11f-4937-8612-bb2d9a528230.svg" alt="Operating System over last 30 days" title="Wakatime - OS" width="900px" height="500px" /> </a> |
+| <a href="https://wakatime.com/@Jachou-yt"> <img src="https://wakatime.com/share/@Jachou-yt/3fbbcb42-59ad-4579-88b1-5fd1f31fa2d8.svg" alt="IDEs over last 30 days" title="Wakatime - IDEs" width="900px" height="500px" /> </a> | <a href="https://wakatime.com/@Jachou-yt"> <img src="https://wakatime.com/share/@d017f327-5027-47b0-97d1-52731c06615a/baf7d70b-7684-41b0-b92d-a4ab0e7ecbce.svg" alt="Operating System over last 30 days" title="Wakatime - OS" width="900px" height="500px" /> </a> |
 
 </details>
 </li>
