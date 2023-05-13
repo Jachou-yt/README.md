@@ -18,7 +18,7 @@
     <a>
     &#8287;&#8287; <!-- special whitespace for indent -->
     <a href="https://twitter.com/Jachouz" title="My Twitter">
-        <img src="https://img.shields.io/static/v1?label=Twitter&message=alwyn974&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter - alwyn974" />
+        <img src="https://img.shields.io/static/v1?label=Twitter&message=Jachouz&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter - alwyn974" />
         <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" height="40" width="40" style="filter: invert(53%) sepia(21%) saturate(5257%) hue-rotate(176deg) brightness(99%) contrast(91%);"> -->
     </a>
     &#8287;&#8287;
