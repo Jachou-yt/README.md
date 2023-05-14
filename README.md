@@ -49,7 +49,7 @@
     - 🎮 Gaming
     - 🖥️ Programming
     - 💤 Sleeping
-    - Eating
+    - 🍲 Eating
 
 <!-- yHype -->
 ![](https://hit.yhype.me/github/profile?user_id=47529956)
