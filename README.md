@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    A passionate developper from Reunion Lyon
+    A passionate developper from Lyon
 </h3>
 
 <!-- Contact  -->
