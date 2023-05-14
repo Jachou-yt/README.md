@@ -127,7 +127,7 @@
 <a href="https://wakatime.com/@Jachou-yt">
 <picture>
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Jachou-yt&layout=compact&title_color=0891b2&icon_color=0891b2&locale=en">
-  <img alt="Languages over the last 7 days" src="https://github-readme-stats.vercel.app/api/wakatime?username=alwyn974&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&locale=en"/>
+  <img alt="Languages over the last 7 days" src="https://wakatime.com/share/@d017f327-5027-47b0-97d1-52731c06615a/6296869f-53be-4466-88c1-6ae7d01f0c34.svg"/>
 </picture>
 </a>
 
