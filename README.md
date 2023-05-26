@@ -216,5 +216,4 @@
 <br>
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" title="Built With Love" />
-  <img src="https://img.shields.io/badge/By-Alwyn974-38c1d0?style=for-the-badge&logo=github" alt="By Jachou-yt" title="By Jachou-yt" height="35" />
 </div>
