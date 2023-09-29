@@ -41,7 +41,7 @@
 
 - 🇫🇷 I'm from France
 - 🎓 I'm a **10th Grade** at Blaise Pascal High School
-- 🔭 I’m currently working on [Weedev](https://weedev.eu)
+- 🔭 I’m currently working on [Frouzie](https://frouzie.fr)
 - 🌱 Nowadays I'm learning **React**
 - 💬 Ask me about **Java**, **Python**, **C#**, **C++**
 - 👀 My Hobbies:
