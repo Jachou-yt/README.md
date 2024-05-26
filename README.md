@@ -4,9 +4,6 @@
     </a>
 </h1>
 
-<a href="https://discord.com/users/1068848847654223893" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/384787216863330305?bg=1f1f1f&borderRadius=10px">
-</a>
 
 <h3 align="center">
     A passionate developper from Lyon
